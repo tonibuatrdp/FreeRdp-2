@@ -24,13 +24,8 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
-## If Error Showed
+</details>
 
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
-### WARN
+### Im 
 
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
-
-DON'T USE FOR MINING OR ILLEGAL USE
-
-DON'T RECODE THIS SC!.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Terimaksih Telah Berkunjung :)" width="600" />
