@@ -1,6 +1,6 @@
 
 
-## Free RDP 6 HOURS
+## Free RDP BANG
 
 it's all free, don't be stingy ⭐️ yes: D
 
