@@ -4,7 +4,7 @@
 
 it's all free, don't be stingy ⭐️ yes: D
 
-### HOW TO CREATE netslutter-RDP
+### HOW TO CREATE RDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
